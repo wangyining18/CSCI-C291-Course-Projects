@@ -13,7 +13,7 @@ To run the program, you have to specify a file to store the score data.
 ```
 ./teris score-file.txt
 ```
-
+#### Screenshot
 
 ![teris-screenshot-1](teris-screenshot-1.png)
 
